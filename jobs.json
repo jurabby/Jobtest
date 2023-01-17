@@ -1,0 +1,30 @@
+[ 
+   
+    {
+        "name" : "PA for CEO",
+        "key" : "PAforCEO",
+        "department" : "PA",
+        "company": "Stake Capital",
+        "location": "Remote",
+        "status": "Open",
+        "mdPath": "content-pajob"
+    },
+    {
+        "name" : "Python Lead Developer",
+        "key" : "PhythonLeadDev",
+        "department" : "DevOps",
+        "company": "Other",
+        "location": "Remote",
+        "status": "Open",
+        "mdPath": "content-pythonjob"        
+    },
+    {
+        "name" : "Junior Social Media Manager",
+        "key" : "JuniorSocialMediaManager",
+        "department" : "Marketing",
+        "company": "Stake Capital",
+        "location": "Remote",
+        "status": "Open",
+        "mdPath": "content-socialmediajob"        
+    }
+]
